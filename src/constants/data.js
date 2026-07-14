@@ -340,7 +340,7 @@ export const spaceStation = {
     url: socials.resumeUrl,
   },
   certificates: [
-    { name: 'Deep Learning Specialization', issuer: 'DeepLearning.AI', year: '2024' },
+    { name: 'ML with mini projects', issuer: 'skilllearn', year: '2024' },
     { name: 'AWS Certified Machine Learning', issuer: 'Amazon Web Services', year: '2025' },
   ],
   papers: [
